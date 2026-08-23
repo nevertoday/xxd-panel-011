@@ -44,11 +44,26 @@ XXD Panel 011 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **一抹记忆点色：** 最多一个极小源图提炼色落在物件、节点、线段、光点或关系焦点上，绝不重复装饰。
 - **艺术书微型文字：** 一个极短标题与一至两组小字沿线、停在线尾、藏入留白或让线成为基线。
 
-## 样张 · 即将补充
+## 样张 · 来自 X
 
-项目已预留 [`assets/examples/`](assets/examples/) 样张目录。只有经项目作者确认、确实使用 011 完成的作品才会加入；在此之前不借用其他风格的推文或图片作为占位。
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090090613073232083) · 2026-08-19<br>
+> GPT2 x 线条 x 灵魂 x 极简 x 抽象 x 美学提示词<br>
+> 原推文未标注 VOL；作者在本次对话确认该样张归属 XXD Panel 011。
 
-未来样张只用于展示 011 对不同题材的适应力，不会把样张主体、隐喻、配色、文案或画幅变成生成参考或默认值。
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 011 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 011 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 011 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 011 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 011 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 四种输出共享同一种哲思线条逻辑
 
