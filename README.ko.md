@@ -22,6 +22,27 @@ XXD Panel 011는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 멈춤, 호흡, 밀도, 어긋남, 연장, 겹침, 교차와 미완성이 서사를 맡습니다. 흰색 또는 따뜻한 종이 여백은 시간, 거리, 외로움, 친밀함, 기다림과 흐름을 표현합니다. 원본에서 가져온 아주 작은 색 하나는 남겨진 기억처럼 작동하고, 문자는 선과 함께 구성되는 아트북 주석이 됩니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090090613073232083) · 2026-08-19<br>
+> GPT2 x 线条 x 灵魂 x 极简 x 抽象 x 美学提示词<br>
+> 원문 게시물에는 VOL 표기가 없지만, 작성자가 이번 대화에서 XXD Panel 011 예시임을 확인했습니다.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 011 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 011 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 011 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 011 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 011의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 왜 011이 필요한가요
 
 일반적인 ‘미니멀 선화’는 예쁘지만 비어 있는 장식 곡선, 기계적인 한 줄 트레이싱 또는 어떤 사진에도 붙일 수 있는 철학 기호 세트로 쉽게 무너집니다.
@@ -43,27 +64,6 @@ XXD Panel 011는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **여백이 서술:** 흰색 또는 따뜻한 종이가 지배하고 주제는 작고 비껴가거나 잘리고 떠 있을 수 있으며 침묵이 시간과 거리를 맡습니다.
 - **기억색 하나:** 원본에서 가져온 아주 작은 색을 사물, 절점, 선분, 빛점 또는 관계 초점 한 곳에만 둡니다.
 - **아트북 미세 문자:** 짧은 제목과 1–2개 미세 요소를 선을 따라, 선 끝에, 여백에, 윤곽에 또는 선의 기준선 위에 통합합니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090090613073232083) · 2026-08-19<br>
-> GPT2 x 线条 x 灵魂 x 极简 x 抽象 x 美学提示词<br>
-> 원문 게시물에는 VOL 표기가 없지만, 작성자가 이번 대화에서 XXD Panel 011 예시임을 확인했습니다.
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 011 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 011 예시 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 011 예시 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 011 예시 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 011의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

@@ -22,6 +22,27 @@ XXD Panel 011 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 线条通过停顿、呼吸、疏密、错位、延伸、交叠、穿越与未完成感承担叙事；白色或温润纸白留白表达时间、距离、孤独、亲密、等待与流动。最多一抹源图提炼的极小点色像被保留下来的记忆，文字则像艺术书注释，与线本身共同构图。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090090613073232083) · 2026-08-19<br>
+> GPT2 x 线条 x 灵魂 x 极简 x 抽象 x 美学提示词<br>
+> 原推文未标注 VOL；作者在本次对话确认该样张归属 XXD Panel 011。
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 011 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 011 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 011 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 011 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 011 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 011
 
 普通“极简线条”很容易退化成漂亮但空洞的装饰曲线、机械一笔画，或一套与任何照片都能搭配的哲学符号。
@@ -43,27 +64,6 @@ XXD Panel 011 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **留白主动叙事：** 白色或温润纸白占主导，主体可小、偏置、裁切或悬置，留白承担时间与距离。
 - **一抹记忆点色：** 最多一个极小源图提炼色落在物件、节点、线段、光点或关系焦点上，绝不重复装饰。
 - **艺术书微型文字：** 一个极短标题与一至两组小字沿线、停在线尾、藏入留白或让线成为基线。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090090613073232083) · 2026-08-19<br>
-> GPT2 x 线条 x 灵魂 x 极简 x 抽象 x 美学提示词<br>
-> 原推文未标注 VOL；作者在本次对话确认该样张归属 XXD Panel 011。
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 011 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 011 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 011 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 011 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 011 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

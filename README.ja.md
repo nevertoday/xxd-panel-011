@@ -22,6 +22,27 @@ XXD Panel 011 は、Codex と互換 Agent のための画像生成 Skill です�
 
 線の停止、呼吸、密度、ずれ、延長、重なり、交差、未完が物語を担います。白または温かな紙色の余白は時間、距離、孤独、親密さ、待つこと、流れを表し、写真から取った一点だけの色は残された記憶として働きます。文字は線と共に構成されるアートブックの注記です。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090090613073232083) · 2026-08-19<br>
+> GPT2 x 线条 x 灵魂 x 极简 x 抽象 x 美学提示词<br>
+> 元の投稿には VOL 表記がありませんが、作者が本対話で XXD Panel 011 の作例であると確認しました。
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 011 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 011 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 011 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 011 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 011 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 011 が必要なのか
 
 一般的な「極簡線画」は、美しいが空虚な装飾曲線、機械的な一筆描き、どの写真にも使える哲学記号へ崩れがちです。
@@ -43,27 +64,6 @@ XXD Panel 011 は、Codex と互換 Agent のための画像生成 Skill です�
 - **余白が語る：** 白または温かな紙色が主で、主体は小さく、ずれ、切れ、浮遊でき、余白が時間と距離を担います。
 - **記憶色は一点：** 写真由来のごく小さな色を物、節点、線分、光点、関係焦点の一つだけに置きます。
 - **アートブックの小文字：** 短い題と1〜2組の小文字を線沿い、線端、余白、輪郭、または線の基線へ組み込みます。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090090613073232083) · 2026-08-19<br>
-> GPT2 x 线条 x 灵魂 x 极简 x 抽象 x 美学提示词<br>
-> 元の投稿には VOL 表記がありませんが、作者が本対話で XXD Panel 011 の作例であると確認しました。
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 011 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 011 作例 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 011 作例 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 011 作例 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 011 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 

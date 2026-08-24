@@ -24,6 +24,27 @@ XXD Panel 011 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 
 تحمل الوقفات والتنفس والكثافة والانزياح والامتداد والتراكب والتقاطع وعدم الاكتمال السرد. يعبّر الورق الأبيض أو الدافئ عن الزمن والمسافة والوحدة والحميمية والانتظار والحركة. يعمل لون صغير واحد مأخوذ من المصدر كذاكرة محفوظة، ويصبح النص ملاحظة في كتاب فني تتكوّن مع الخط نفسه.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090090613073232083) · 2026-08-19<br>
+> GPT2 x 线条 x 灵魂 x 极简 x 抽象 x 美学提示词<br>
+> لا يحمل المنشور الأصلي رقم VOL؛ وقد أكد المؤلف في هذه المحادثة أن هذه النماذج تخص XXD Panel 011.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 011 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 011 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 011 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 011 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 011 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد 011؟
 
 يتحوّل «الرسم الخطي الأدنى» بسهولة إلى منحنيات زخرفية جميلة لكنها فارغة، أو تتبع ميكانيكي بخط واحد، أو مجموعة رموز فلسفية تصلح لأي صورة.
@@ -45,27 +66,6 @@ XXD Panel 011 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **الفراغ يروي:** يسود الورق الأبيض أو الدافئ، ويمكن أن يكون الموضوع صغيراً أو منحازاً أو مقصوصاً أو معلقاً، ويحمل الصمت الزمن والمسافة.
 - **لون ذاكرة واحد:** يوضع لون صغير جداً من المصدر على شيء أو عقدة أو مقطع خط أو نقطة ضوء أو بؤرة علاقة واحدة فقط.
 - **نص مجهري لكتاب فني:** يندمج عنوان قصير وعنصر أو عنصران صغيران على امتداد الخط أو نهايته أو في الصمت أو على محيط أو خط أساس.
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090090613073232083) · 2026-08-19<br>
-> GPT2 x 线条 x 灵魂 x 极简 x 抽象 x 美学提示词<br>
-> لا يحمل المنشور الأصلي رقم VOL؛ وقد أكد المؤلف في هذه المحادثة أن هذه النماذج تخص XXD Panel 011.
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 011 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 011 نموذج 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 011 نموذج 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 011 نموذج 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 011 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 

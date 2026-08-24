@@ -22,6 +22,27 @@ XXD Panel 011 is an image-generation Skill for Codex and compatible agents. It p
 
 Pause, breath, density, misalignment, extension, overlap, crossing, and incompletion carry the narrative. White or warm paper expresses time, distance, loneliness, intimacy, waiting, and movement. At most one tiny source-derived colour behaves like a preserved memory, while type becomes an artist-book annotation composed with the line itself.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090090613073232083) · 2026-08-19<br>
+> GPT2 x 线条 x 灵魂 x 极简 x 抽象 x 美学提示词<br>
+> The original post has no VOL label; the author confirmed in this conversation that these samples belong to XXD Panel 011.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 011 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 011 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 011 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 011 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 011 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 “Minimal line art” easily collapses into attractive but empty decorative looping, mechanical one-line tracing, or a stock set of philosophical symbols that could accompany any photograph.
@@ -43,27 +64,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **Whitespace narrates:** white or warm paper dominates; the subject may be small, offset, cropped, or suspended while silence carries time and distance.
 - **One memory colour:** at most one tiny source-derived hue marks an object, node, segment, light point, or relation focus and never repeats decoratively.
 - **Artist-book microtype:** one short title plus one or two micro-elements follow the line, stop at its end, hide in silence, or use the line as a baseline.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090090613073232083) · 2026-08-19<br>
-> GPT2 x 线条 x 灵魂 x 极简 x 抽象 x 美学提示词<br>
-> The original post has no VOL label; the author confirmed in this conversation that these samples belong to XXD Panel 011.
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 011 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 011 sample 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 011 sample 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 011 sample 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 011 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 
