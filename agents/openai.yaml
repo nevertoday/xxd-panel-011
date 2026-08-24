@@ -1,4 +1,4 @@
 interface:
   display_name: "/xxd-panel-011"
-  short_description: "Create philosophical minimal continuous-line art."
-  default_prompt: "Use $xxd-panel-011 to distil my photo into one source-bound philosophical image made from fine flowing black continuous lines, active white space, one tiny meaningful memory colour, and integrated art-book microtype; ask first for modes and copy or locale preferences."
+  short_description: "Create Panel 011 from its original style brief."
+  default_prompt: "Use $xxd-panel-011; treat its bundled original style brief as the sole aesthetic authority, and ask only for unresolved mode, size, text mode, locale, or wallpaper settings."
