@@ -43,7 +43,18 @@ Pause, breath, density, misalignment, extension, overlap, crossing, and incomple
 
 These samples demonstrate the 011 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 011 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Distil a photograph into philosophical minimal continuous line worth looking at slowly |
+| **Recognizable signature** | ONE CORE IMAGE · ONE RELATION · CONTINUOUS BLACK LINE · ACTIVE SILENCE · ONE MEMORY COLOUR |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 “Minimal line art” easily collapses into attractive but empty decorative looping, mechanical one-line tracing, or a stock set of philosophical symbols that could accompany any photograph.
 
@@ -55,7 +66,7 @@ lock source identity and relation → find the most meaningful emotional / spati
 
 If an unrelated photograph could replace the source without materially changing the core image, relation distance, line route, pauses, crossings, memory colour, or copy, the result is not 011.
 
-## The 011 visual contract
+## What makes the finished style recognizable
 
 - **One core image:** at least three source-specific cues preserve identity, contour, pose, action, structure, and relation.
 - **One spiritual proposition:** distil only the most meaningful emotional tension, spatial relation, action direction, distance, state, or supported metaphor.
