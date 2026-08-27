@@ -27,7 +27,12 @@
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 011 نموذج 3"></a></td>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090090613073232083"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 011 نموذج 4"></a></td>
   </tr>
+  <tr>
+    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 011 نموذج 5"></td>
+  </tr>
 </table>
+
+> نموذج إضافي: تم اختيار صورة واحدة عشوائياً من مجموعة ملصقات تشن شيانغ، ثم إنشاء تكوين 16:9 يسار-يمين وفق الموجز الأصلي لهذه المهارة مع نص إنجليزي يولّده النموذج منطقياً.
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090090613073232083) · 2026-08-19<br>
 > GPT2 x 线条 x 灵魂 x 极简 x 抽象 x 美学提示词<br>
