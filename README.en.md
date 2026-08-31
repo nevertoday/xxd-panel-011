@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 011
+# 🦁 XXD Panel 011｜Meditative Line Poem
 
 ### Distil a photograph into philosophical minimal continuous line worth looking at slowly
 

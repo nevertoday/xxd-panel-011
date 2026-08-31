@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 011
+# 🦁 XXD Panel 011｜瞑想する線の詩
 
 ### 写真を、ゆっくり見つめられる哲学的な極簡連続線へ
 

@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 011
+# 🦁 XXD Panel 011｜명상하는 선의 시
 
 ### 사진을 천천히 바라볼 수 있는 철학적 미니멀 연속선으로
 

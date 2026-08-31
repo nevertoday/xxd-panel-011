@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 011
+# 🦁 XXD Panel 011｜冥想线诗
 
 ### 把照片提炼成可以反复凝视的哲思极简连续线条
 
