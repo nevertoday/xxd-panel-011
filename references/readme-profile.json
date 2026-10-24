@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 011｜Meditative Line Poem: distils a photo into one quiet visual idea drawn in thin, flowing, continuous black line on white or warm paper — lines that pause, breathe, leave gaps, overlap or stay unfinished, keeping a person's pose, an animal's movement, an object's key structure or a landscape's horizon — with one core image and one relationship set small or off-centre in large silent whitespace, black and white with at most one tiny meaningful accent colour taken from the photo, and a very short title with one or two tiny lines of quiet, reflective text that the drawing's lines lead into or run beneath. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-011 or asks for meditative continuous-line drawings, philosophical minimal line art or one-accent-colour line posters from a photo.",
+  "short_description": "冥想线诗：把照片提炼成可以慢慢凝视的黑色连续细线和一点点睛色",
+  "zh-CN": {
+    "name": "冥想线诗",
+    "tagline": "把照片提炼成一根可以慢慢凝视的黑色连续细线，只留一点有意义的颜色。",
+    "look": "照片被删繁就简成一个核心意象：人保留姿态和关系，动物保留动作，物件保留最关键的结构，风景只留地平线、走势和距离。画面是白色或温润纸白上纤细流动的黑色连续线，有停顿、疏密和未完成感，可以省略、错位、交叠或延伸。主体常常很小、偏置或悬在大片留白里，留白本身用来表达距离、等待或亲密。整体黑白，只在一个小物件、节点或光点上留一抹从照片里取的点睛色。文字是一个极短标题加一两组极小的哲思短句，可以停在线的尽头，或让某根线成为文字的基线。",
+    "traits": [
+      "核心意象",
+      "关系",
+      "连续黑线",
+      "主动留白",
+      "单点色"
+    ],
+    "good": [
+      "有情绪或关系的画面：两个人背对背坐着、牵手的老人、母亲抱着孩子",
+      "安静的单一主体：窗边一只猫、一个独自走路的人、一盏灯",
+      "想做成可以长久挂着看的极简艺术画或书籍内页的照片"
+    ],
+    "poor": [
+      "想要写实线稿或完整还原细节的需求",
+      "色彩丰富、热闹，重点在很多颜色的照片",
+      "需要大面积色块、卡通感或商业海报排版的设计"
+    ]
+  },
+  "en": {
+    "name": "Meditative Line Poem",
+    "tagline": "Distils a photo into one thin, continuous black line worth looking at slowly, with a single meaningful touch of colour.",
+    "look": "The photo is pared down to one core image: a person keeps their pose and relationship, an animal its movement, an object its key structure, a landscape only its horizon, direction and distance. The drawing is a thin, flowing, continuous black line on white or warm paper, with pauses, changes of density and a sense of being unfinished; it can leave gaps, shift, overlap or run on. The subject is often small, off-centre or suspended in wide whitespace, and the empty space itself carries distance, waiting or closeness. Everything is black and white except one tiny accent colour from the photo on a small object, a node or a point of light. Text is one very short title with one or two tiny lines of quiet reflection, which may sit at the end of a line or use one of the lines as its baseline.",
+    "traits": [
+      "Core image",
+      "Relationship",
+      "Continuous black line",
+      "Deliberate whitespace",
+      "Single accent colour"
+    ],
+    "good": [
+      "Pictures with feeling or a relationship: two people sitting back to back, an elderly couple holding hands, a mother holding a child",
+      "A quiet single subject: a cat by a window, someone walking alone, a lamp",
+      "Photos you want as a minimal artwork to live with, or a book page"
+    ],
+    "poor": [
+      "Requests for realistic line art or full detail",
+      "Busy, colourful photos whose point is their many colours",
+      "Designs that need large colour blocks, a cartoon look or commercial poster layout"
+    ]
+  },
+  "ja": {
+    "name": "瞑想する線の詩",
+    "tagline": "写真を、ゆっくり見つめたくなる黒い細い連続線にまとめ、意味のある色を一点だけ残します。",
+    "look": "写真を一つの核となるイメージまで削ぎ落とします。人物は姿勢と関係、動物は動き、モノはいちばん大事な構造、風景は地平線と流れと距離だけを残します。絵は白や温かみのある紙の白の上に、細く流れる黒い連続線で描き、間や疎密、描きかけの感じがあり、省いたり、ずらしたり、重ねたり、伸ばしたりします。主役は小さく、片寄せて、あるいは大きな余白に浮かべることが多く、余白そのものが距離や待つ時間、親しさを語ります。全体は白黒で、小さなモノや結び目、光の点に一つだけ写真から取った差し色を置きます。文字はごく短いタイトルと、ごく小さな思索的な一言を一、二組だけで、線の終わりに置いたり、線をそのままベースラインにしたりします。",
+    "traits": [
+      "核となるイメージ",
+      "関係",
+      "黒い連続線",
+      "意図した余白",
+      "一点の差し色"
+    ],
+    "good": [
+      "感情や関係のある写真：背中合わせに座る二人、手をつなぐ老夫婦、子どもを抱く母",
+      "静かな一つの主役：窓辺の猫、一人で歩く人、ひとつの灯り",
+      "長く飾って眺める最小限のアート、本のページにしたい写真"
+    ],
+    "poor": [
+      "写実的な線画や細部の完全な再現を求める場合",
+      "色の多さが見どころの、にぎやかでカラフルな写真",
+      "大きな色面、マンガ風、商業ポスター的なレイアウトが必要なデザイン"
+    ]
+  },
+  "ko": {
+    "name": "명상하는 선의 시",
+    "tagline": "사진을 천천히 바라보게 되는 검은 가는 연속선으로 정리하고, 의미 있는 색 하나만 남깁니다.",
+    "look": "사진을 하나의 핵심 이미지로 덜어 냅니다. 사람은 자세와 관계를, 동물은 움직임을, 물건은 가장 중요한 구조를, 풍경은 지평선과 흐름, 거리만 남깁니다. 그림은 흰색이나 따뜻한 종이색 위의 가늘고 흐르는 검은 연속선이며, 멈춤과 밀도 변화, 미완의 느낌이 있고, 생략하거나 어긋나거나 겹치거나 이어 뻗기도 합니다. 주인공은 대개 작거나 한쪽에 치우치거나 넓은 여백에 떠 있고, 여백 자체가 거리, 기다림, 친밀함을 말합니다. 전체는 흑백이고 작은 물건, 매듭, 빛 한 점에만 사진에서 가져온 포인트 색 하나를 둡니다. 글자는 아주 짧은 제목과 아주 작은 사색적인 문장 한두 묶음이며, 선 끝에 머물거나 선 하나를 글줄 삼기도 합니다.",
+    "traits": [
+      "핵심 이미지",
+      "관계",
+      "검은 연속선",
+      "의도된 여백",
+      "포인트 색 하나"
+    ],
+    "good": [
+      "감정이나 관계가 있는 사진: 등을 맞대고 앉은 두 사람, 손잡은 노부부, 아이를 안은 엄마",
+      "조용한 단일 주인공: 창가의 고양이, 홀로 걷는 사람, 등 하나",
+      "오래 걸어 두고 볼 미니멀 아트나 책 속 페이지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사실적인 선화나 세부의 완전한 재현을 원하는 경우",
+      "많은 색이 핵심인 화려하고 북적이는 사진",
+      "넓은 색면, 만화 느낌, 상업 포스터식 레이아웃이 필요한 디자인"
+    ]
+  },
+  "ar": {
+    "name": "قصيدة الخط التأملي",
+    "tagline": "يختصر الصورة في خط أسود رفيع متصل يُتأمَّل على مهل، مع لمسة لون واحدة ذات معنى.",
+    "look": "تُجرَّد الصورة حتى لا يبقى إلا صورة جوهرية واحدة: الشخص بوضعيته وعلاقته، والحيوان بحركته، والشيء ببنيته الأساسية، والمنظر بخط الأفق والاتجاه والمسافة فقط. الرسم خط أسود رفيع متدفق متصل على ورق أبيض أو مائل إلى الدفء، فيه وقفات وتفاوت في الكثافة وإحساس بعدم الاكتمال، وقد ينقطع أو ينزاح أو يتداخل أو يمتد. يكون العنصر غالباً صغيراً أو جانبياً أو معلّقاً في فراغ واسع، والفراغ نفسه يحمل المسافة أو الانتظار أو القرب. كل شيء بالأسود والأبيض ما عدا لمسة لون صغيرة واحدة من الصورة على شيء صغير أو عقدة أو نقطة ضوء. النص عنوان قصير جداً مع سطر أو سطرين صغيرين من التأمل الهادئ، قد يقف عند نهاية خط أو يتخذ أحد الخطوط سطراً له.",
+    "traits": [
+      "صورة جوهرية",
+      "علاقة",
+      "خط أسود متصل",
+      "فراغ مقصود",
+      "لون واحد مميز"
+    ],
+    "good": [
+      "صور فيها شعور أو علاقة: شخصان يجلسان ظهراً لظهر، زوجان مسنّان متشابكا الأيدي، أم تحمل طفلها",
+      "عنصر واحد هادئ: قطة قرب نافذة، شخص يمشي وحده، مصباح",
+      "صور تريدها عملاً فنياً بسيطاً يُعلَّق ويُتأمَّل، أو صفحة في كتاب"
+    ],
+    "poor": [
+      "طلب رسم خطي واقعي أو نقل التفاصيل كاملة",
+      "صور مزدحمة ملوّنة قيمتها في كثرة ألوانها",
+      "تصاميم تحتاج إلى مساحات لونية كبيرة أو طابع كرتوني أو تنسيق ملصقات تجارية"
+    ]
+  }
+}
